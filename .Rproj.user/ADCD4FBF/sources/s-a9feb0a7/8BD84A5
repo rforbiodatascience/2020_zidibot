@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584033820555.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8BD84A5",
+    "lastKnownWriteTime" : 1584033950,
+    "last_content_update" : 1584033950709,
+    "path" : "/cloud/project/R/00_doit.R",
+    "project_path" : "R/00_doit.R",
+    "properties" : {
+        "cursorPosition" : "20,76",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
