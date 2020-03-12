@@ -1,0 +1,16 @@
+---
+title: "Reproducible Data Analysis Framework Exercise"
+author: "VG"
+date: "12/03/2020"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Description
+
+The repository is part of the hands on GIT version control 
+for the __DTU R for BioDataScience course__.
+
